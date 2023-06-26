@@ -2,11 +2,13 @@
 :root {
   --bg-color: #E9F5FA;
   --day-text-color: #4DB0D3;
+  
 
   /* Cloudy */
   --cloudy-background: #4DB0D3;
   --cloudy-temperature: #E6DF95;
   --cloudy-content: #D3EBF4;
+  
 
   /* Sunny */
   --sunny-background: #E6DF95;
